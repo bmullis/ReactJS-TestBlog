@@ -1,0 +1,24 @@
+.active-page {
+  color: red !important;
+}
+
+.main {
+  padding: 3em 0;
+}
+
+.post-list-item {
+  color: #000000;
+  margin-bottom: 5px !important;
+}
+.post-list-item:hover {
+  background-color: #EEEEEE;
+  text-decoration: none !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+form a.btn-danger {
+  margin-left: 5px;
+}
